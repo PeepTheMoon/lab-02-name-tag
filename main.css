@@ -32,9 +32,13 @@ input {
     margin: auto;
 }
 
-button {
-    background-color: seagreen;
+main {
     border-radius: 5px;
     text-align: center;
     margin: auto;
+}
+
+button {
+    background-color: seagreen;
+    border-radius: 5px;
 }
