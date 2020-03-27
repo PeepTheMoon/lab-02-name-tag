@@ -8,7 +8,7 @@ const name = document.getElementById('name');
 
 const enterName = document.getElementById('enterName');
 
-name.style.color = 'purple';
+name.style.color = 'seagreen';
 
 name.textContent = 'Cheese Eater';
 
